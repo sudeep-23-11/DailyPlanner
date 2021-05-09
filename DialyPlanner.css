@@ -1,0 +1,147 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: linear-gradient(to right, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    color: white;
+}
+.top
+{
+    background-image: linear-gradient(to left, #cc208e 0%, #6713d2 100%); 
+    height: 100px;
+    width: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.top_1
+{
+    background-color: white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding: 12px;
+    margin: 1rem;
+    cursor: pointer;
+}
+.top_3
+{
+    display: flex;
+    align-items: center;
+    padding-left: 1000px;
+}
+.top_3_ 
+{
+    margin: 1rem; 
+    cursor: pointer;
+}
+.middle
+{
+   display: flex;
+   flex-wrap: wrap;
+}
+.middle_
+{
+    height: 295px;
+    width: 47.5%;
+    border-radius: 10px;
+    margin: 1rem;
+}
+.middle_1_1
+{
+    background-image: linear-gradient(to left, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    height: 33.33%;
+    padding: 10px;
+}
+.middle_1_2 
+{
+    background-image: linear-gradient(to left, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    height: 66.66%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.middle_1_2_
+{
+    width: 33.33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.middle_1_2_ img
+{
+    height: 100px;
+    width: 100px;
+}
+.middle_2_1
+{
+    background-image: linear-gradient(to left, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    display: flex;
+    flex-wrap: wrap;
+}
+.middle_2_1_
+{
+    height: 300px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.middle_2_1_ img
+{
+    height: 200px;
+    width: 200px;
+    margin: 1rem;
+}
+.middle_3_1
+{
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.middle_3_1_
+{
+    background-image: linear-gradient(to left, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 1rem;
+    cursor: pointer;
+}
+.middle_3_1_ img
+{
+    height: 75px;
+    width: 75px;
+}
+.middle_4_1
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.middle_4_1_
+{
+    background-image: linear-gradient(to left, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    height: 260px;
+    width: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 1rem;
+}
+.middle_4_1_ img
+{
+    height: 150px;
+    width: 150px;
+    margin: 1rem;
+}
